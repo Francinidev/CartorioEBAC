@@ -1,2 +1,2 @@
 # CartorioEBAC
-Projeto co curso de TI EBAC
+Projeto do curso de TI EBAC
